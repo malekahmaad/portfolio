@@ -44,7 +44,7 @@ const Hero = () => {
             <div className="max-w-md opacity-0 animate-fade-in" style={{ animationDelay: "0.4s" }}>
               <h2 className="text-xl font-serif font-medium mb-3">Malek Ahmad</h2>
               <p className="text-muted-foreground leading-relaxed">
-                Software Engineering graduate with strong backend development skills and a growing focus on AI and
+                Software Engineer with strong backend development skills and a growing focus on AI and
                 machine learning. Experienced in building real-world systems using Python, C/C++, JavaScript and React,
                 with an emphasis on clean design and scalable solutions.
               </p>

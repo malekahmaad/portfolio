@@ -19,7 +19,7 @@ const About = () => {
               
               <div className="space-y-4 text-muted-foreground leading-relaxed">
                 <p>
-                  I am a Software Engineering graduate with strong foundations in designing and implementing
+                  I am a Software Engineer with strong foundations in designing and implementing
                   software engineering projects, with an emphasis on backend development, data structures,
                   and algorithmic thinking. I have hands-on experience building real-world applications using
                   Python, C++, and JavaScript, focusing on clean architecture, maintainability, and scalability.
