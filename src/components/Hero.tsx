@@ -17,7 +17,8 @@ const Hero = () => {
   const cvs = [
     { label: "Software Engineering (General)", href: "/cv/Malek_Ahmad_Software_Engineer_Resume.pdf" },
     { label: "Backend Engineer", href: "/cv/Malek_Ahmad_Backend_Engineer_Resume.pdf" },
-    { label: "C / C++ & Python", href: "/cv/Malek_Ahmad_CPP_Python_Resume.pdf" },
+    { label: "Python Developer", href: "/cv/Malek_Ahmad_Python_Resume.pdf" },
+    { label: "Systems & Design", href: "/cv/Malek_Ahmad_CPP_Resume.pdf" },
   ];
 
   return (
