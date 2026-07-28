@@ -5,7 +5,7 @@ const skillCategories = [
   },
   {
     title: "Backend Development",
-    skills: ["Node.js", "Flask", "REST APIs", "Express.js"],
+    skills: ["FastAPI", "Node.js", "Flask", "REST APIs", "Express.js"],
   },
   {
     title: "Databases & Storage",
@@ -13,7 +13,7 @@ const skillCategories = [
   },
   {
     title: "AI / Machine Learning",
-    skills: ["Retrieval-Augmented Generation (RAG)", "Embeddings", "Model Evaluation", "Reinforcement Learning"],
+    skills: ["Page Index", "Retrieval-Augmented Generation (RAG)", "Embeddings", "Model Evaluation", "Reinforcement Learning"],
   },
   {
     title: "Frontend",

@@ -3,6 +3,15 @@ import { Button } from "@/components/ui/button";
 
 const projects = [
   {
+    title: "AI Codebase Assistant",
+    problem: "Developers often spend significant time understanding unfamiliar codebases, locating relevant files, and answering questions about large repositories. There was a need for an intelligent assistant that could analyze GitHub repositories and provide accurate, context-aware answers about the code structure and implementation.",
+    solution: "Built an AI-powered codebase assistant that analyzes GitHub repositories and enables users to ask natural language questions about the codebase. Developed a full-stack application with a FastAPI backend and React frontend, using OpenAI models and PageIndex for tree-based retrieval. Implemented repository processing, intelligent code retrieval, PDF report export, and Google Drive integration to improve code exploration and documentation workflows.",
+    tech: ["Python", "FastAPI", "React", "OpenAI API", "PageIndex", "GitHub API", "Google Drive API", "REST APIs", "Git"],
+    github: "https://github.com/malekahmaad/AI-Codebase-Assistant",
+    githubPrivate: false,
+    live: "",
+  },
+  {
     title: "AI-Powered Multilingual Document Search (RAG)",
     problem: "College staff needed a way to quickly find answers in large, multilingual document collections without manually reading or searching each file.",
     solution: "Developed a Retrieval-Augmented Generation (RAG) system using vector embeddings and semantic search to provide accurate, context-aware answers, supporting multiple languages and document types.",
@@ -17,15 +26,6 @@ const projects = [
     solution: "Developed a React Native app with a Firestore backend to manage teachers, student groups, schools, and lessons. Implemented all backend functionality, enabling easy CRUD operations and improving workflow efficiency.",
     tech: ["React Native", "Firestore", "Node.js / Firebase Functions", "JavaScript", "Git"],
     github: "https://github.com/malekahmaad/ChessCenterDB",
-    githubPrivate: false,
-    live: "",
-  },
-  {
-    title: "Project Management Web Application",
-    problem: "As part of an academic course, students needed to design and implement a complete server–client system that supports managing projects, team members, and related media, while practicing backend architecture and API design.",
-    solution: "Designed and implemented a server–client web application with full CRUD functionality for projects, team members, and images. Built a RESTful backend using Express.js, integrated the Unsplash API for image retrieval, and stored data in a JSON-based local database to simulate backend persistence.",
-    tech: ["JavaScript", "Node.js", "Express.js", "Unsplash API", "JSON (local data storage)", "Git"],
-    github: "https://github.com/malekahmaad/distributed-systems/tree/main/project%20management",
     githubPrivate: false,
     live: "",
   }, 

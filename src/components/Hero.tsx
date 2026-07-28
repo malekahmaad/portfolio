@@ -15,9 +15,7 @@ const Hero = () => {
 
   // ✅ CV files (put them in: public/cv/...)
   const cvs = [
-    { label: "Software Engineering (General)", href: "/cv/Malek_Ahmad_Software_Engineer_Resume.pdf" },
     { label: "Backend Engineer", href: "/cv/Malek_Ahmad_Backend_Engineer_Resume.pdf" },
-    { label: "Python Developer", href: "/cv/Malek_Ahmad_Python_Resume.pdf" },
     { label: "Systems & Design", href: "/cv/Malek_Ahmad_CPP_Resume.pdf" },
   ];
 

@@ -32,6 +32,13 @@ const education = [
 
 const certifications = [
   {
+    title: " AI Growth Lab Program",
+    issuer: "Place-IL",
+    year: "2026",
+    file: "/certificates/Malek Ahmad.jpg",
+    type: "image",
+  },
+  {
     title: "Tutoring certificate",
     issuer: "Perach / Tutorial Project",
     year: "2025",
